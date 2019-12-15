@@ -1,0 +1,16 @@
+{
+  "name": "bubble-sort",
+  "version": "1.0.0",
+  "description": "Bubble sort implementation in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "bubble",
+    "sort",
+    "javascript"
+  ],
+  "author": "costapiy",
+  "license": "ISC"
+}
